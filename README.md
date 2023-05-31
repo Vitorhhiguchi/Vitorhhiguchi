@@ -2,8 +2,5 @@
 
 - 🎓 Cursando Ciência da Computação
 - 🌱 Tenho interesse em desenvolvimento Full stack
-- 💻 Estudando JavaScript, CSS e HTML
+- 💻 Estudando JavaScript, HTML e CSS
 - 🚀 Buscando por novas oportunidades!
-
-<div>
-   <a href="https://github.com/Vitorhhiguchi">
