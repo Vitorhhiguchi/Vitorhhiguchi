@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vitor Hiroshi Higuchi 👋
 
-# 👨🏻Sobre mim: 
+# ⚡ Sobre mim: 
 - 🎓 Cursando Ciência da Computação
 - 🌱 Tenho interesse em desenvolvimento Full stack
 - 💻 Estudando JavaScript, HTML e CSS
