@@ -2,8 +2,8 @@
 
 # ⚡ Sobre mim: 
 - 🎓 Cursando Ciência da Computação
-- 🌱 Tenho interesse em desenvolvimento Full stack
-- 💻 Estudando JavaScript, HTML e CSS
+- 🌱 Estou me aventurando ainda no mundo da programação...
+- 💻 Estudando Data Science(Python e Machine Learning)
 - 🚀 Buscando por novas oportunidades!
 
 ## 🌐 Socials:
