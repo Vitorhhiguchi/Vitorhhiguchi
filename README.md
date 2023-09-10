@@ -4,7 +4,7 @@
 - 🎓 Cursando Ciência da Computação
 - 🌱 Estou me aventurando no mundo da programação...
 - 💻 Estudando programação Web(JS, CSS, HTML)
-- 💼 Estagiando na SetupJr, empresa júnior da Universidade Estadual do Norte do Paraná(UENP)
+- 💼 Estagiando na SetupJr, empresa júnior da Universidade Estadual do Norte do Paraná (UENP)
 - 🚀 Buscando por novas oportunidades!
 
 ## 🌐 Socials:
