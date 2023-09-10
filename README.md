@@ -3,7 +3,7 @@
 # ⚡ Sobre mim: 
 - 🎓 Cursando Ciência da Computação
 - 🌱 Estou me aventurando no mundo da programação...
-- 💻 Estudando programação Web(JS, CSS, HTML)
+- 💻 Estudando programação Web (JS, CSS, HTML)
 - 💼 Estagiando na SetupJr, empresa júnior da Universidade Estadual do Norte do Paraná (UENP)
 - 🚀 Buscando por novas oportunidades!
 
