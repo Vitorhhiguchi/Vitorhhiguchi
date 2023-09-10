@@ -2,8 +2,9 @@
 
 # ⚡ Sobre mim: 
 - 🎓 Cursando Ciência da Computação
-- 🌱 Estou me aventurando ainda no mundo da programação...
-- 💻 Estudando Data Science(Python e Machine Learning)
+- 🌱 Estou me aventurando no mundo da programação...
+- 💻 Estudando programação Web(JS, CSS, HTML)
+- 💼 Estagiando na SetupJr, empresa júnior da Universidade Estadual do Norte do Paraná(UENP)
 - 🚀 Buscando por novas oportunidades!
 
 ## 🌐 Socials:
